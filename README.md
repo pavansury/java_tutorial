@@ -1,9 +1,9 @@
-═════════════════════════════════════════════════════════════════════════════
-HOMEWORK QUESTIONS
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                                        HOMEWORK QUESTIONS
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 PART 1: Basic I/O & Operations (14 Programs)
-──────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Q1. Write a Java program to print an integer entered by the user.
 
@@ -35,7 +35,7 @@ Q14. Write a Java program to check whether a string is empty or null.
 
 
 PART 2: Loop & Control Flow Analysis
-──────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Q1. Analyze the output of a program using the continue statement. Explain how continue affects loop execution.
 
@@ -45,7 +45,7 @@ Q3. Refactor a program that uses labeled continue into alternative approaches wi
 
 
 PART 3: Recursion Problems
-────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Q1. Analyze a complex recursive program involving nested function calls. Trace the execution and determine the final output.
 
@@ -53,7 +53,7 @@ Q2. Convert the recursive solution into an optimized iterative and mathematical 
 
 
 PART 4: Basic Assignment Problems (21 Programs)
-─────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Q1. Write a Java program to check whether a year is a leap year.
 
@@ -99,7 +99,7 @@ Q21. Write a Java program to sort numbers in ascending order.
 
 
 PART 5: Pattern Programs
-──────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Q1. Write a Java program to print a right triangle (pyramid) pattern.
 
@@ -107,7 +107,7 @@ Q2. Write a Java program to print a diamond pattern.
 
 
 PART 6: Advanced Algorithm Analysis
-─────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Q1. Analyze a recursive program with nested calls and predict the output.
 
@@ -119,4 +119,4 @@ Q4. Write a program to find the maximum product of three elements in an array.
 
 Q5. Analyze a complex function using bitwise AND operations and determine the result.
 
-═════════════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
